@@ -1,2 +1,2 @@
-# placeholder..practice.repo
+# placeholder.practice.repo
 Placeholder Practice Project Repository
